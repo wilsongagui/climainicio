@@ -17,3 +17,11 @@ dev_dependencies:
 
 flutter:
   uses-material-design: true
+
+  assets:
+    - images/palmera.jpg
+
+  fonts:
+    - family: LeagueSpartan
+      fonts:
+        - asset: fonts/LeagueSpartan.ttf
